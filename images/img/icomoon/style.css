@@ -1,0 +1,60 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-advantages_man {
+  width: 0.98046875em;
+}
+
+.icon-advantages_many {
+  width: 0.98046875em;
+}
+
+.icon-advantages_training {
+  width: 0.98046875em;
+}
+
+.icon-footer_tel {
+  width: 1.0341796875em;
+}
+
+.icon-guarantee_fire {
+  width: 0.7333984375em;
+}
+
+.icon-header_fire {
+  width: 0.7333984375em;
+}
+
+.icon-how_we_do_book {
+  width: 1.4375em;
+}
+
+.icon-how_we_do_girl {
+  width: 0.8330078125em;
+}
+
+.icon-how_we_do_list {
+  width: 0.9580078125em;
+}
+
+.icon-how_we_do_people {
+  width: 1.0205078125em;
+}
+
+.icon-how_we_do_training {
+  width: 1.021484375em;
+}
